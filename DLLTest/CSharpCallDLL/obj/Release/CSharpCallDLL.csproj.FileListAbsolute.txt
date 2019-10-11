@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\DLLTest\CSharpCallDLL\bin\Release\CSharpCallDLL.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\DLLTest\CSharpCallDLL\bin\Release\CSharpCallDLL.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DLLTest\CSharpCallDLL\bin\Release\CSharpCallDLL.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\DLLTest\CSharpCallDLL\obj\Release\CSharpCallDLL.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\DLLTest\CSharpCallDLL\obj\Release\CSharpCallDLL.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DLLTest\CSharpCallDLL\obj\Release\CSharpCallDLL.pdb

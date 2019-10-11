@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\High resolution timer\High resolution timer\bin\Debug\High resolution timer.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\High resolution timer\High resolution timer\bin\Debug\High resolution timer.exe
+c:\users\administrator\documents\visual studio 2015\Projects\High resolution timer\High resolution timer\bin\Debug\High resolution timer.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\High resolution timer\High resolution timer\obj\Debug\High resolution timer.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\High resolution timer\High resolution timer\obj\Debug\High resolution timer.exe
+c:\users\administrator\documents\visual studio 2015\Projects\High resolution timer\High resolution timer\obj\Debug\High resolution timer.pdb

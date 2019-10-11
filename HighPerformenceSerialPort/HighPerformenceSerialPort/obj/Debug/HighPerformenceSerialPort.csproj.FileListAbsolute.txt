@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\HighPerformenceSerialPort\HighPerformenceSerialPort\bin\Debug\HighPerformenceSerialPort.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\HighPerformenceSerialPort\HighPerformenceSerialPort\bin\Debug\HighPerformenceSerialPort.exe
+c:\users\administrator\documents\visual studio 2015\Projects\HighPerformenceSerialPort\HighPerformenceSerialPort\bin\Debug\HighPerformenceSerialPort.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\HighPerformenceSerialPort\HighPerformenceSerialPort\obj\Debug\HighPerformenceSerialPort.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\HighPerformenceSerialPort\HighPerformenceSerialPort\obj\Debug\HighPerformenceSerialPort.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\HighPerformenceSerialPort\HighPerformenceSerialPort\obj\Debug\HighPerformenceSerialPort.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\HighPerformenceSerialPort\HighPerformenceSerialPort\obj\Debug\HighPerformenceSerialPort.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\HighPerformenceSerialPort\HighPerformenceSerialPort\obj\Debug\HighPerformenceSerialPort.exe
+c:\users\administrator\documents\visual studio 2015\Projects\HighPerformenceSerialPort\HighPerformenceSerialPort\obj\Debug\HighPerformenceSerialPort.pdb

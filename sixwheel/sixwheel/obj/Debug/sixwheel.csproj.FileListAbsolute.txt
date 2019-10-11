@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\sixwheel\sixwheel\bin\Debug\sixwheel.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\sixwheel\sixwheel\obj\Debug\sixwheel.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\sixwheel\sixwheel\obj\Debug\sixwheel.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\sixwheel\sixwheel\obj\Debug\sixwheel.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\sixwheel\sixwheel\obj\Debug\sixwheel.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\sixwheel\sixwheel\bin\Debug\sixwheel.exe
+c:\users\administrator\documents\visual studio 2015\Projects\sixwheel\sixwheel\bin\Debug\sixwheel.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\sixwheel\sixwheel\obj\Debug\sixwheel.exe
+c:\users\administrator\documents\visual studio 2015\Projects\sixwheel\sixwheel\obj\Debug\sixwheel.pdb

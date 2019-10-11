@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  CreateDLL.cpp
+  dllmain.cpp
+    正在创建库 c:\users\administrator\documents\visual studio 2015\Projects\DLLTest\Release\CreateDLL.lib 和对象 c:\users\administrator\documents\visual studio 2015\Projects\DLLTest\Release\CreateDLL.exp
+  正在生成代码
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CreateDLL.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\DLLTest\Release\CreateDLL.dll
+  CreateDLL.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\DLLTest\Release\CreateDLL.pdb (Full PDB)

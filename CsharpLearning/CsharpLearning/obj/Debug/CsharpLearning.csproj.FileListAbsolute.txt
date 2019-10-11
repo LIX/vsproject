@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CsharpLearning\CsharpLearning\bin\Debug\CsharpLearning.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\CsharpLearning\CsharpLearning\bin\Debug\CsharpLearning.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CsharpLearning\CsharpLearning\bin\Debug\CsharpLearning.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CsharpLearning\CsharpLearning\obj\Debug\CsharpLearning.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\CsharpLearning\CsharpLearning\obj\Debug\CsharpLearning.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CsharpLearning\CsharpLearning\obj\Debug\CsharpLearning.pdb

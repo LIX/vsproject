@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\realtimecharts_net\RealTimeMultiThread\bin\Debug\RealTimeMultiThread.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\realtimecharts_net\RealTimeMultiThread\bin\Debug\RealTimeMultiThread.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\realtimecharts_net\RealTimeMultiThread\bin\Debug\netchartdir.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\realtimecharts_net\RealTimeMultiThread\bin\Debug\netchartdir.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\realtimecharts_net\RealTimeMultiThread\obj\Debug\RealTimeMultiThread.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\realtimecharts_net\RealTimeMultiThread\obj\Debug\ChartDirectorSampleCode.FrmRealTimeMultiThread.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\realtimecharts_net\RealTimeMultiThread\obj\Debug\ChartDirectorSampleCode.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\realtimecharts_net\RealTimeMultiThread\obj\Debug\RealTimeMultiThread.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\realtimecharts_net\RealTimeMultiThread\obj\Debug\RealTimeMultiThread.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\realtimecharts_net\RealTimeMultiThread\obj\Debug\RealTimeMultiThread.pdb

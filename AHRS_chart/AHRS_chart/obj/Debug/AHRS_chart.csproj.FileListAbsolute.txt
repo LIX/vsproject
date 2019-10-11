@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\AHRS_chart\AHRS_chart\bin\Debug\AHRS_chart.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\AHRS_chart\AHRS_chart\bin\Debug\AHRS_chart.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\AHRS_chart\AHRS_chart\bin\Debug\AHRS_chart.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\AHRS_chart\AHRS_chart\obj\Debug\AHRS_chart.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\AHRS_chart\AHRS_chart\obj\Debug\AHRS_chart.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\AHRS_chart\AHRS_chart\obj\Debug\AHRS_chart.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\AHRS_chart\AHRS_chart\obj\Debug\AHRS_chart.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\AHRS_chart\AHRS_chart\obj\Debug\AHRS_chart.pdb

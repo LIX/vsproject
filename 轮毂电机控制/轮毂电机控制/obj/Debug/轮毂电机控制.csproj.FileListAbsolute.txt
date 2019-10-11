@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\轮毂电机控制\轮毂电机控制\bin\Debug\轮毂电机控制.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\轮毂电机控制\轮毂电机控制\bin\Debug\轮毂电机控制.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\轮毂电机控制\轮毂电机控制\bin\Debug\轮毂电机控制.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\轮毂电机控制\轮毂电机控制\obj\Debug\轮毂电机控制.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\轮毂电机控制\轮毂电机控制\obj\Debug\轮毂电机控制.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\轮毂电机控制\轮毂电机控制\obj\Debug\轮毂电机控制.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\轮毂电机控制\轮毂电机控制\obj\Debug\轮毂电机控制.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\轮毂电机控制\轮毂电机控制\obj\Debug\轮毂电机控制.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\轮毂电机控制\轮毂电机控制\obj\Debug\轮毂电机控制.pdb

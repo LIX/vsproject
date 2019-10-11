@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BreakRack\BreakRack\bin\Release\BreakRack.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BreakRack\BreakRack\bin\Release\BreakRack.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BreakRack\BreakRack\bin\Release\BreakRack.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BreakRack\BreakRack\obj\Release\BreakRack.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BreakRack\BreakRack\obj\Release\BreakRack.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BreakRack\BreakRack\obj\Release\BreakRack.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BreakRack\BreakRack\obj\Release\BreakRack.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BreakRack\BreakRack\obj\Release\BreakRack.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BreakRack\BreakRack\obj\Release\BreakRack.pdb

@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AHRS_console\AHRS_console\bin\Debug\AHRS_console.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\AHRS_console\AHRS_console\bin\Debug\AHRS_console.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AHRS_console\AHRS_console\bin\Debug\AHRS_console.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AHRS_console\AHRS_console\obj\Debug\AHRS_console.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AHRS_console\AHRS_console\obj\Debug\AHRS_console.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AHRS_console\AHRS_console\obj\Debug\AHRS_console.pdb
